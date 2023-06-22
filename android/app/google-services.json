@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "271639024238",
+    "project_id": "responsiveloginpage",
+    "storage_bucket": "responsiveloginpage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271639024238:android:7ff1fd6d1790911fc68c7f",
+        "android_client_info": {
+          "package_name": "com.example.responsive_login_page"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271639024238-63opgij2o7fptjl21jojoh53shnbp7vt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.responsive_login_page",
+            "certificate_hash": "6e0efbcf593c872bdf9e50c4a48b1c80bff9c64e"
+          }
+        },
+        {
+          "client_id": "271639024238-ngeqjue930hmoc8vt48r66ldts4ir5b8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNGYBHRG7DhCo8ICMxlQwZVQmFk75UgS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271639024238-ngeqjue930hmoc8vt48r66ldts4ir5b8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
